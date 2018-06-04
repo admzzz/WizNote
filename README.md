@@ -1,2 +1,2 @@
 # WizNote
-custom fork of https://github.com/WizTeam/WizQTClient
+custom fork of editing pop-up toolbar for https://github.com/WizTeam/WizQTClient
